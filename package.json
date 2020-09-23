@@ -1,7 +1,7 @@
 {
-	"name": "material-ui-figma-plugin-template",
+	"name": "figma-npcs",
 	"version": "1.0.0",
-	"description": "Figma Plugin template with Material UI",
+	"description": "Figma NPCs plugin",
 	"license": "ISC",
 	"scripts": {
 		"build": "webpack --mode=production",
